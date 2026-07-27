@@ -86,7 +86,7 @@
 - ⚡ GitHub Actions
 - ☁️ AWS
 - 🏗️ System Design
-- ⚙️ Microservices
+
 
 ---
 
