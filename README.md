@@ -60,18 +60,6 @@
 
 ---
 
-# 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔗 **Project 1** | Add your best MERN project here | React • Node.js • MongoDB |
-| 🔗 **Project 2** | Add your portfolio project | Next.js • Express |
-| 🔗 **Project 3** | Add your backend/API project | Node.js • Redis |
-
-> Replace these with your repository links.
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
@@ -83,24 +71,6 @@
 <p align="center">
 <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=theasthabang&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=theasthabang&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/theasthabang/theasthabang/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
-> **Note:** You'll need to set up a GitHub Action to generate the snake animation.
 
 ---
 
