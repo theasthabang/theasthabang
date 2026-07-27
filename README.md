@@ -5,11 +5,11 @@ Full Stack Developer • MERN Stack • Backend Developer • DevOps Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+Developer;DSA+Enthusiast;Learning+Docker+%7C+AWS+%7C+CI%2FCD;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;MERN+Stack+Developer;DSA+Enthusiast;Learning+DevOps+%26+AWS" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=theasthabang&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=theasthabang&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -19,10 +19,9 @@ Full Stack Developer • MERN Stack • Backend Developer • DevOps Learner
 - 💻 Full Stack Developer specializing in the **MERN Stack**
 - 🧠 Strong foundation in **Data Structures & Algorithms**
 - 🌱 Currently learning **Docker, AWS, CI/CD, GitHub Actions & System Design**
-- ⚙️ Passionate about **Backend Development** and scalable architectures
-- 🚀 Love building modern, responsive, and scalable web applications
-- 🤝 Open to collaborating on **Open Source Projects**
-- 📚 Always exploring new technologies and best practices
+- ⚙️ Passionate about Backend Development and scalable architectures
+- 🚀 Love building modern web applications
+- 🤝 Open to Open Source Collaboration
 
 ---
 
@@ -31,9 +30,9 @@ Full Stack Developer • MERN Stack • Backend Developer • DevOps Learner
 - ✅ Data Structures & Algorithms
 - ✅ Object-Oriented Programming
 - ✅ REST API Development
-- ✅ Authentication (JWT)
-- ✅ Responsive Web Design
+- ✅ JWT Authentication
 - ✅ Git & GitHub
+- ✅ Responsive Web Design
 - ✅ Database Design
 - ✅ Problem Solving
 
@@ -41,129 +40,107 @@ Full Stack Developer • MERN Stack • Backend Developer • DevOps Learner
 
 # 🧠 Tech Stack
 
----
+## 💻 Languages
 
-## 💻 Core Languages
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>C++
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python" />
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br>C
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="55"/><br>TypeScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>Python
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>Next.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redux" width="55"/><br>Redux</td>
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=redux,tailwind" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=bootstrap,vite" />
-</p>
-
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=reactrouter,daisyui" />
-</p>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>Tailwind</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br>Bootstrap</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="55"/><br>Vite</td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactrouter" width="55"/><br>Router</td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=daisyui" width="55"/><br>DaisyUI</td>
+</tr>
+</table>
 
 ---
 
 ## ⚙️ Backend & APIs
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=socketio,jwt" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=black"/>
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="55"/><br>Express</td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=socketio" width="55"/><br>Socket.io</td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" width="55"/><br>JWT</td>
+<td align="center"><img src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=black"/><br>EJS</td>
+</tr>
+</table>
 
 ---
 
 ## 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redis" width="55"/><br>Redis</td>
+</tr>
+</table>
 
 ---
 
 ## ☁️ DevOps & Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,vscode" />
-</p>
-
----
-
-## 📚 CS Fundamentals
-
-- 🧠 Data Structures & Algorithms
-- ⚡ Object-Oriented Programming
-- 🌐 REST APIs
-- 🔐 JWT Authentication
-- 🏗️ System Design
-- 💡 Problem Solving
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55"/><br>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="55"/><br>Actions</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="55"/><br>AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>VS Code</td>
+</tr>
+</table>
 
 ---
 
-# 🌱 Currently Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=githubactions"/>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-</p>
-
-- Docker
-- GitHub Actions
-- CI/CD Pipelines
-- AWS
-- System Design
-
----
-
-# 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.shion.dev/api?username=theasthabang&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=theasthabang&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
-
-# 📈 Most Used Languages
-
 <p align="center">
-
 <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=theasthabang&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -171,9 +148,7 @@ Full Stack Developer • MERN Stack • Backend Developer • DevOps Learner
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/theasthabang/theasthabang/output/github-contribution-grid-snake.svg"/>
-
 </p>
 
 ---
@@ -209,9 +184,5 @@ Full Stack Developer • MERN Stack • Backend Developer • DevOps Learner
 ---
 
 <h3 align="center">
-
-💙 Thanks for visiting my profile!
-
-⭐ Don't forget to star your favorite repositories.
-
+⭐ Thanks for visiting my profile! ⭐
 </h3>
