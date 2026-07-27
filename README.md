@@ -107,48 +107,7 @@ Full Stack Developer | MERN Stack | Backend Developer | DevOps Learner
 - 🏗️ System Design
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=theasthabang&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=theasthabang&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theasthabang&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theasthabang&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=theasthabang&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
+# 📈 GitHub Stats <p align="center"> <img height="170" src="https://github-readme-stats.shion.dev/api?username=theasthabang&theme=tokyonight&hide_border=true&include_all_commits=true"/> <img height="170" src="https://streak-stats.demolab.com?user=theasthabang&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=theasthabang&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 
 # 🐍 Contribution Snake
 
