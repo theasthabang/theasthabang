@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack developer | Mern stack | learning devops , cicd & AWS <br/> Intrested in backened development & System design <br/> Passionate about building scalable web application and continuosly learning new technologies<br/> Open to collaborating on open source projects
+- Full stack developer | Mern stack | learning devops , cicd & AWS <br/> - Intrested in backened development & System design <br/> - Passionate about building scalable web application and continuosly learning new technologies<br/> - Open to collaborating on open source projects
 
 
 ## 🌐 Socials:
