@@ -151,28 +151,6 @@ Full Stack Developer • MERN Stack • Backend Developer • DevOps Learner
 <img src="https://raw.githubusercontent.com/theasthabang/theasthabang/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/astha-bang-9846a2281">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="https://github.com/theasthabang">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-<a href="mailto:bangastha30@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-<a href="https://x.com/astha27209">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
