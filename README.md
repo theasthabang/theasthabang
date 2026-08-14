@@ -16,12 +16,12 @@ Full Stack Developer • MERN Stack • Backend Developer • DevOps Learner
 
 # 🚀 About Me
 
-- 💻 Full Stack Developer specializing in the **MERN Stack**
-- 🧠 Strong foundation in **Data Structures & Algorithms**
-- 🌱 Currently learning **Docker, AWS, CI/CD, GitHub Actions & System Design**
-- ⚙️ Passionate about Backend Development and scalable architectures
-- 🚀 Love building modern web applications
-- 🤝 Open to Open Source Collaboration
+-  Full Stack Developer specializing in the **MERN Stack**
+-  Strong foundation in **Data Structures & Algorithms**
+-  Currently learning **Docker, AWS, CI/CD, GitHub Actions & System Design**
+-  Passionate about Backend Development and scalable architectures
+-  Love building modern web applications
+-  Open to Open Source Collaboration
 
 ---
 
