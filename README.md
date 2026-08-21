@@ -38,7 +38,6 @@ Full Stack Developer • MERN Stack • Backend Developer • DevOps Learner
 
 ---
 
-# 🧠 Tech Stack
 
 ## 💻 Languages
 
@@ -131,19 +130,7 @@ Full Stack Developer • MERN Stack • Backend Developer • DevOps Learner
 
 ---
 
-# 📈 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=theasthabang&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=theasthabang&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=theasthabang&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
